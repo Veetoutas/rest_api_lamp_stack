@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f17b7c72-d9bb-44d7-b041-28c3a080a451" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/public_html/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/public_html/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gdIwRNxBaz6ahi0t6Wz4DjZBdM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f17b7c72-d9bb-44d7-b041-28c3a080a451" name="Default Changelist" comment="" />
+      <created>1598438280645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598438280645</updated>
+      <workItem from="1598438281970" duration="1082000" />
+      <workItem from="1598439393377" duration="8974000" />
+      <workItem from="1598509897311" duration="18954000" />
+      <workItem from="1598850594052" duration="19027000" />
+      <workItem from="1598937947103" duration="27693000" />
+      <workItem from="1599028799083" duration="20390000" />
+      <workItem from="1599113447544" duration="52000" />
+      <workItem from="1599113600935" duration="67000" />
+      <workItem from="1599114683146" duration="194000" />
+      <workItem from="1599114936301" duration="1492000" />
+      <workItem from="1599116930135" duration="15011000" />
+      <workItem from="1599458015694" duration="23643000" />
+      <workItem from="1599542538699" duration="11848000" />
+      <workItem from="1599641934820" duration="11911000" />
+      <workItem from="1599719253704" duration="18915000" />
+      <workItem from="1599802474751" duration="24508000" />
+      <workItem from="1600062904134" duration="898000" />
+      <workItem from="1600063991236" duration="166000" />
+      <workItem from="1600064187707" duration="12790000" />
+      <workItem from="1600318421926" duration="27400000" />
+      <workItem from="1600401882698" duration="16562000" />
+      <workItem from="1600664248178" duration="13340000" />
+      <workItem from="1600761752503" duration="2351000" />
+      <workItem from="1600765326743" duration="1556000" />
+      <workItem from="1600766919316" duration="1205000" />
+      <workItem from="1600771630376" duration="618000" />
+      <workItem from="1600772290273" duration="15415000" />
+      <workItem from="1601269616120" duration="6328000" />
+      <workItem from="1601373912676" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1600351363011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600351363011" />
+    <state x="789" y="150" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600322477198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="150" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600322477198" />
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600352505958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600352505958" />
+    <state x="762" y="433" key="ComposerInitDialogKey" timestamp="1598439496336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="433" key="ComposerInitDialogKey/0.0.1920.1040@0.0.1920.1040" timestamp="1598439496336" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601371258243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601371258243" />
+    <state x="778" y="245" key="NewPhpClassDialog" timestamp="1600777999721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="245" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600777999721" />
+    <state x="816" y="443" key="NewPhpFileDialog" timestamp="1600680650293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600680650293" />
+    <state x="476" y="166" key="SettingsEditor" timestamp="1600775854180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="339" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600766893516" />
+    <state x="476" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600775854180" />
+    <state x="673" y="260" width="714" height="578" key="find.popup" timestamp="1601295402575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="260" width="714" height="578" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601295402575" />
+    <state x="689" y="293" key="refactoring.ChangeSignatureDialog" timestamp="1599741259510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="293" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599741259510" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1600340379574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600340379574" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600351686954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600351686954" />
+  </component>
+</project>
